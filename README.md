@@ -1,2 +1,2 @@
 # Fibonacci
-This program prints fibonacci numbers 
+Python program that prints fibonacci numbers 
